@@ -24,7 +24,7 @@ import javax.swing.JTextField;
  * @version 9.0
  * @date 01-06-2016
  */
-public class AddVehicle extends JFrame
+public class AddVehicle extends JFrame//AddVehicle method
 {
    private JFrame addVehicleFrame;
    private VehicleFileAdapter vehicleAdapter;
